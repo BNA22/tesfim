@@ -4,8 +4,6 @@ import java.io.*;
 import javax.persistence.*;
 import java.util.*;
 import javax.xml.bind.annotation.*;
-
-
 /**
 * @generated
 */
