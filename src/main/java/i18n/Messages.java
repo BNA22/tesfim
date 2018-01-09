@@ -28,4 +28,5 @@ public class Messages {
   public static void set(Locale locale) {
     RESOURCE_BUNDLE.set(ResourceBundle.getBundle(BUNDLE_NAME, locale));
   }
+  
 }
